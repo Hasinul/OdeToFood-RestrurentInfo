@@ -1,0 +1,230 @@
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.exe
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.deps.json
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.runtimeconfig.json
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.runtimeconfig.dev.json
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.pdb
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Views.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Views.pdb
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.AssemblyInfoInputs.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.AssemblyInfo.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.TagHelpers.input.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.TagHelpers.output.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorCoreGenerate.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorTargetAssemblyInfo.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorTargetAssemblyInfo.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.Views.pdb
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\staticwebassets\OdeToFood.StaticWebAssets.Manifest.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\staticwebassets\OdeToFood.StaticWebAssets.xml
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csprojAssemblyReference.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+G:\Programming Practice\Plurasite\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.exe
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.deps.json
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.runtimeconfig.json
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.runtimeconfig.dev.json
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.pdb
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Views.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Views.pdb
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csprojAssemblyReference.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.AssemblyInfoInputs.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.AssemblyInfo.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CoreCompileInputs.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorAssemblyInfo.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.TagHelpers.input.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.TagHelpers.output.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorCoreGenerate.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorTargetAssemblyInfo.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorTargetAssemblyInfo.cs
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.Views.pdb
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyComplete
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\staticwebassets\OdeToFood.StaticWebAssets.Manifest.cache
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\staticwebassets\OdeToFood.StaticWebAssets.xml
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.dll
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
+G:\Programming Practice\Git Projects\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache

@@ -1,0 +1,40 @@
+﻿@page
+@model OdeToFood.Pages.Restaurants.ListModel
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>Restaurants</h1>
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control"/>
+            <span class="input-group-btn">
+                <button class="btn btn-primary">
+                </button>
+                <i class="glyphicon glyphicon-search"></i>
+            </span>
+        </div>
+    </div>
+</form>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Location</td>
+            <td>Cusisine</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Restaurants)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Location</td>
+                <td>@item.CusisineType</td>
+            </tr>
+
+
+        }
+    </tbody>
+</table>
